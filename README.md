@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mahin Ahmed Shipu**, a Digital Marketing Specialist with almost **5 years of experience** in digital advertising, performance marketing, and online business growth.
+I'm mahinshipu, a Digital Marketing Specialist with almost **5 years of experience** in digital advertising, performance marketing, and online business growth.
 
 I help businesses reach their ideal customers, generate quality leads, increase conversions, and build a stronger online presence through data-driven marketing strategies.
 
