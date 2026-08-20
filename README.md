@@ -1,110 +1,151 @@
-# 👋 Hi, I'm Mahin Ahmed Shipu
+<div align="center">
+
+# 👋 Hi, I'm **Mahin Ahmed Shipu**
 
 ### 🚀 Digital Marketing Specialist | Google Ads Expert | Meta Ads Expert
 
-I'm a professional **Digital Marketing Specialist** with almost **5 years of experience** in digital advertising, audience targeting, campaign optimization, and online growth.
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Digital+Marketing+Specialist;Google+Ads+Expert;Meta+Ads+Expert;SEO+Specialist;Performance+Marketing+Expert" alt="Typing SVG" />
 
-I help businesses reach the right audience, generate quality leads, increase conversions, and build a stronger online presence.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mahinshipu&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
+</p>
 
----
-
-## 💼 About Me
-
-- 🎯 Digital Marketing Specialist
-- 📢 Google Ads Expert
-- 📱 Meta Ads Expert
-- 📈 Paid Advertising & Campaign Optimization
-- 🎯 Audience Targeting & Retargeting
-- 💡 Lead Generation & Conversion Optimization
-- 🌍 Working with clients and businesses online
-- 🔥 Almost 5 years of practical experience
+</div>
 
 ---
 
-## 🛠️ Skills & Expertise
+## 👨‍💻 About Me
 
-### 📊 Digital Marketing
-- Google Ads
-- Meta Ads
-- Facebook Advertising
-- Instagram Advertising
-- Lead Generation
-- Conversion Campaigns
-- Retargeting
-- Audience Research
-- Campaign Optimization
+I'm **Mahin Ahmed Shipu**, a Digital Marketing Specialist with almost **5 years of experience** in digital advertising, performance marketing, and online business growth.
 
-### 🔎 SEO & Growth
-- SEO
-- Keyword Research
-- On-Page SEO
-- Off-Page SEO
-- Content Strategy
-- Organic Growth
+I help businesses reach their ideal customers, generate quality leads, increase conversions, and build a stronger online presence through data-driven marketing strategies.
 
-### 📱 Social Media
-- Facebook
-- Instagram
-- TikTok
-- LinkedIn
-- Reddit
-- Social Media Marketing
+### 🎯 My Expertise
+
+* 📢 Google Ads
+* 📣 Meta Ads
+* 🔎 SEO
+* 🎯 Audience Targeting
+* 🔄 Retargeting Campaigns
+* 📊 Campaign Analytics
+* 💰 Performance Marketing
+* 🚀 Lead Generation
+* 📈 Conversion Optimization
+* 🌐 Social Media Marketing
 
 ---
 
-## 📣 My Services
+## 🛠️ Skills & Tools
 
-✅ Google Ads Management  
-✅ Meta Ads Management  
-✅ Facebook & Instagram Ads  
-✅ Lead Generation Campaigns  
-✅ Conversion Campaigns  
-✅ Audience Targeting  
-✅ Retargeting Campaigns  
-✅ Social Media Marketing  
-✅ SEO Services  
-✅ Digital Marketing Consultation  
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+<img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/SEO-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Lead%20Generation-7B1FA2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Performance%20Marketing-E91E63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Social%20Media%20Marketing-FF4081?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Conversion%20Optimization-2196F3?style=for-the-badge" />
+
+</p>
+
+---
+
+## 📈 Marketing Process
+
+<div align="center">
+
+**Research**
+⬇️
+**Strategy**
+⬇️
+**Audience Targeting**
+⬇️
+**Campaign Setup**
+⬇️
+**Testing & Optimization**
+⬇️
+**Scaling & Growth**
+
+</div>
+
+---
+
+## 💼 What I Can Help With
+
+| Service                    | Focus                                           |
+| -------------------------- | ----------------------------------------------- |
+| 🎯 Google Ads              | Search, Display, YouTube & Conversion Campaigns |
+| 📣 Meta Ads                | Facebook & Instagram Advertising                |
+| 🔎 SEO                     | Search Visibility & Organic Growth              |
+| 🚀 Lead Generation         | Qualified Leads & Customer Acquisition          |
+| 📊 Analytics               | Campaign Tracking & Performance Analysis        |
+| 💰 Performance Marketing   | ROI-focused Advertising                         |
+| 🔄 Retargeting             | Re-engaging Potential Customers                 |
+| 📈 Conversion Optimization | Improving Campaign Results                      |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahinshipu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahinshipu&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.facebook.com/mahinshipu">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/mahinshipu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mahinshipu">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/mahinshipu">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://linktr.ee/mahinshipu">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.facebook.com/mahinshipu">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/mahinshipu">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://t.me/mahinshipu">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://linktr.ee/mahinshipu">
+<img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 📫 Let's Work Together
+## 🤝 Let's Work Together
 
-Are you looking to grow your business with **Google Ads, Meta Ads, Lead Generation, or Digital Marketing?**
+Are you looking to:
 
-### 🚀 Let's build your online growth together!
+* 🚀 Grow your online business?
+* 📈 Generate more qualified leads?
+* 🎯 Reach your ideal customers?
+* 💰 Improve your advertising ROI?
+* 📣 Scale Google & Meta Ads campaigns?
 
-📩 **Contact:** @mahinshipu
-
----
-
-## ⚡ Fun Fact
-
-> "The right strategy + the right audience = better results."
+### Let's connect and build a growth-focused marketing strategy.
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<div align="center">
 
-**© Mahin Ahmed Shipu**
+### ⭐ Thanks for visiting my profile!
+
+**Mahin Ahmed Shipu**
+
+*Digital Marketing Specialist | Google Ads Expert | Meta Ads Expert*
+
+</div>
